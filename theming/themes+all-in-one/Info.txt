@@ -1,0 +1,7 @@
+Resources Used
+---
+Desktop Theme: Chillychilly
+Icon Theme: Chillychilly
+Cursor Theme: Chillychilly
+Default Font: Lucidity Regular 12
+Fixed-width Font: Ataraxia Light 10
